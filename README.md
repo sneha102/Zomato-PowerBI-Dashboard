@@ -1,7 +1,9 @@
 # 🍽️ Zomato Power BI Dashboard
 This project contains a Power BI dashboard that analyzes Zomato restaurant data to provide actionable insights on ratings, locations, costs, cuisines, and more.
 ### 📁 File
-- `Dashboard.pbix` — Power BI report file (tracked via Git LFS)
+- `Dashboard` — Power BI report file (tracked via Git LFS)
+- `Data` — Raw Excel Datasets
+- `Images` — Screenshots of the dashboard
 ### Key Features
 - **Top Cusines** by popularity and ratings
 - **City-Wise** distribution of restraunts
